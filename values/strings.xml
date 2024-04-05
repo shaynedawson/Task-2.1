@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">unit converter</string>
+    <string name="body">Enter unit you\'d like to be converted</string>
+    <string name="from">From:</string>
+    <string name="to">To</string>
+    <string name="_0">0</string>
+    <string name="convert">Convert</string>
+    <string name="_01">0</string>
+
+    <string-array name="units">
+        <item>Cm</item>
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Mile</item>
+        <item>Km</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Ton</item>
+        <item>G</item>
+        <item>Kg</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+</resources>
